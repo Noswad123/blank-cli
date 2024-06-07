@@ -13,8 +13,8 @@ Boilerplate code to create a node cli tool
 ## Setup Commands
 - these commands will allow your system to run your script
 ```bash
-npm i -g
-npm link .
+npm i --g .
+npm link
 
 npm run build # transpiles your typescript to javascript
 blank # will run your script, unless you change the name
